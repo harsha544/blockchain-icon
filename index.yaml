@@ -1,0 +1,9 @@
+- apiVersion: v1
+   created: 2017-08-12T10:46:16.014986276-04:00
+   description: A Helm chart for Kubernetes
+   digest: sha256:ceaa6eabb1c70862d9dcaaed15a0d6389ad2686e6cb9cd2fd6fd9f86a09b7346
+   icon: https://github.com/harsha544/blockchain-icon/blob/master/hyperledger.png
+   name: blockchain
+   urls:
+   - https://github.com/harsha544/blockchain-icon/blob/master/blockchain-1.0.0.tgz
+   version: 1.0.0
