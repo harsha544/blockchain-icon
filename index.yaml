@@ -5,5 +5,5 @@
    icon: https://github.com/harsha544/blockchain-icon/blob/master/hyperledger.png
    name: blockchain
    urls:
-   - https://github.com/harsha544/blockchain-icon/blob/master/blockchain-1.0.0.tgz
+   - https://raw.githubusercontent.com/harsha544/blockchain-icon/master/blockchain-1.0.0.tgz
    version: 1.0.0
